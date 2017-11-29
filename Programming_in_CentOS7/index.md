@@ -15,7 +15,7 @@
 1. 更新Git
   1. 下载源码
 1. 配置Vim
-  
+    * [vimrc](http://blog.jobbole.com/112726/)
 
 
 ## 0. 前言
