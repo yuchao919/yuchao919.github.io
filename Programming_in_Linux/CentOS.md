@@ -13,13 +13,6 @@
 1. 更新Firefox
     1. 添加[附加组件管理器](http://mozilla.com.cn/thread-343905-1-1.html)
 1. 更新Git
-  1. 下载源码
+    1. 下载源码
 1. 配置Vim
-    * [vimrc](http://blog.jobbole.com/112726/)
-
-
-## 0. 前言
-
-现在是2017年11月28日， 注意本文的时效性
-
-
+    * [vimrc](http://blog.jobbole.com/112726/)
