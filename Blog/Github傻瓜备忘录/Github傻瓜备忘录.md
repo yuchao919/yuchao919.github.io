@@ -165,3 +165,4 @@
 ## 杂项
 
 1. .gitignore文件
+1. git pull到指定版本
